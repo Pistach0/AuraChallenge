@@ -1,11 +1,17 @@
-<div align="center">
+# 🏆 AuraChallenge by Aura Team
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+**AuraChallenge** es el motor creativo de la plataforma **AuraNook**. Esta aplicación genera retos de diseño arquitectónico y de interiores personalizados, diseñados para inspirar a la comunidad y potenciar el uso de herramientas de diseño asistido por IA.
 
-  <h1>Built with AI Studio</h2>
+### ✨ Características principales
+* **Generación Dinámica:** Desafíos únicos basados en restricciones de espacio, estilo y funcionalidad.
+* **Integración con AuraNook:** Retos optimizados para ser resueltos en nuestra herramienta de planos 2D.
+* **Niveles de Dificultad:** Fácil, Medio y Difícil.
+* **Enfoque Educativo:** Ideal para estudiantes y entusiastas del diseño que buscan practicar casos reales.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+### 🚀 Cómo usarlo
+1. Genera un desafío en la aplicación.
+2. Abre [AuraNook](https://aura-nook.vercel.app/) en otra pestaña.
+3. ¡Empieza a diseñar y comparte tu resultado con el **#AuraChallenge**!
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+---
+Desarrollado con ❤️ por el **Aura Team**.
