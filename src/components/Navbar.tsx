@@ -18,7 +18,7 @@ export function Navbar({ currentPage, setPage }: NavbarProps) {
         >
           {!imgError ? (
             <img 
-              src="/logo.png" 
+              src="https://lh3.googleusercontent.com/u/0/d/15Huh_FdB4k-q2M77Co0_x1r9X92TVEnz" 
               alt="AuraChallenge Logo" 
               className="h-8 w-8 object-contain" 
               onError={() => setImgError(true)} 
