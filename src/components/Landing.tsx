@@ -19,7 +19,7 @@ export function Landing({ onStart }: LandingProps) {
           <span className="text-gray-400">proyectos de vivienda</span>
         </h1>
         <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-xl">
-          Generador de desafíos arquitectónicos impulsado por IA. Obtén perfiles de clientes, 
+          Supera tus límites con desafíos de diseño generados por IA. Obtén perfiles de clientes, 
           restricciones urbanísticas y programas de necesidades para practicar y mejorar tus 
           habilidades de diseño.
         </p>

@@ -92,6 +92,14 @@ export function SavedChallenges() {
                 >
                   <Trash2 size={20} />
                 </button>
+                <a
+                  href="https://aura-nook.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="ml-2 flex items-center gap-1.5 rounded-full bg-indigo-600 px-4 py-2 text-sm font-medium text-white transition-all hover:bg-indigo-700 hover:shadow-md active:scale-95"
+                >
+                  Crear en AuraNook
+                </a>
               </div>
             </div>
 
